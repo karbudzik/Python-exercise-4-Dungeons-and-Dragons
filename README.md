@@ -12,8 +12,11 @@ The features that we managed to complete were:
 * possibility to win or loose the game
 
 ## Screenshots
-![User's movement](/Screenshot1.png)
-![User's inventory](./Screenshot2.png)
+User's movement:
+![User's movement](Screenshot1.png)
+Picking up items and presenting user's inventory:
+![User's inventory](Screenshot2.png)
+Example of interactions with other character:
 ![Interactions with other characters](Screenshot3.png)
 
 ## Technologies
