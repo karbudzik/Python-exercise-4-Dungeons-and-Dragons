@@ -12,9 +12,9 @@ The features that we managed to complete were:
 * possibility to win or loose the game
 
 ## Screenshots
-![User's movement](/screenshot1.png)
-![User's inventory](/screenshot2.png)
-![Interactions with other characters](/screenshot3.png)
+![User's movement](/Screenshot1.png)
+![User's inventory](./Screenshot2.png)
+![Interactions with other characters](Screenshot3.png)
 
 ## Technologies
 * Python 3.6
